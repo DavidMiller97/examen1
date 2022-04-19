@@ -13,5 +13,5 @@
 			<li class="hover:underline"><a href="creditos.php">Creditos</a></li>
 		</ul>
 	</nav>
-	<h1 class="text-bold text-center text-indigo-600 text-3xl mt-5 mb-5">Examen 1</h1>
+	<h1 class="font-bold text-center text-indigo-600 text-3xl mt-5 mb-5">Examen 1</h1>
 	<div class="p-10">
