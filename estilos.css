@@ -1,0 +1,7 @@
+.form-oculto{
+	display: none;
+}
+
+.form-activo{
+	display: block;
+}
